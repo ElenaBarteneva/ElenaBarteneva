@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - :woman_technologist: I'm beginner Frontend developer, now learning React;
 - :smiley_cat: I'm now working on my pet projects;
 - :snake: I have background on software testing of UI and API with Python;
-- :mag: I'am looking for job opportunities;
+- :mag: I'm looking for job opportunities;
 - :mailbox_with_mail: Contact me via [LinkedIn](https://linkedin.com/in/elena-barteneva) or [E-mail](mailto:lena.kilian91@gmail.com)
 
 ### Languages and tools
