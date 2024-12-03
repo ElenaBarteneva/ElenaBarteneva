@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 - :musical_note: [Audio Player](https://elena-barteneva-audio-player.netlify.app/)
 - :framed_picture: [Image gallery with Unsplash API](https://elena-barteneva-image-gallery.netlify.app/)
 - :grin: [CSS Meme Slider](https://elenabarteneva.github.io/cssMemeSlider/cssMemeSlider/index.html)
-- :christmas_tree: [https://elenabarteneva.github.io/christmas-shop/christmas-shop/]
+- :christmas_tree: [Christmas-shop](https://elenabarteneva.github.io/christmas-shop/christmas-shop/)
 
 
 
